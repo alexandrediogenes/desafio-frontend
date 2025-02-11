@@ -1,0 +1,26 @@
+.header {
+    background-color: $primary-color;
+    padding: 20px;
+    color: white;
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+}
+
+.footer {
+    background-color: $secondary-color;
+    padding: 10px 0;
+    text-align: center;
+
+    .container {
+        padding: 0 20px;
+    }
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
